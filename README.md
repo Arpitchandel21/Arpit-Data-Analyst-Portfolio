@@ -23,19 +23,6 @@ Aspiring Data Analyst skilled in data analysis, dashboard creation and visualiza
 
 # 📁 Projects
 
-## 📱 Flipkart Mobile Sales Analysis
-
-Analysis of mobile sales data from 2020–2024.
-
-### Tools Used
-
-* Microsoft Excel
-* Dashboard Design
-* Data Analysis
-
-### Dashboard
-
-![Flipkart Dashboard](flipkart.png)
 
 ### Insights
 
@@ -83,6 +70,20 @@ Python analysis of FIFA player dataset.
 ![Player Salary Chart](fifa.png)
 
 ### Insights
+
+## 📱 Flipkart Mobile Sales Analysis
+
+Analysis of mobile sales data from 2020–2024.
+
+### Tools Used
+
+* Microsoft Excel
+* Dashboard Design
+* Data Analysis
+
+### Dashboard
+
+![Flipkart Dashboard](flipkart.png)
 
 * Certain countries dominate football players.
 * Elite players earn significantly higher wages.
