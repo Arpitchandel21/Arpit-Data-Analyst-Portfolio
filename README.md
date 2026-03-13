@@ -23,6 +23,49 @@ Aspiring Data Analyst skilled in data analysis, dashboard creation and visualiza
 
 # 📁 Projects
 
+# 📱 Flipkart Mobile Sales Analysis
+
+## Project Overview
+
+This project analyzes Flipkart mobile sales data from 2020–2024 to understand brand performance, sales trends, pricing patterns, and discounts.
+
+## Tools Used
+
+* Microsoft Excel
+* Data Analysis
+* Dashboard Design
+
+---
+
+# 📊 Dashboard
+
+## 🌞 Light Theme Dashboard
+
+![Flipkart Light Dashboard](light.png)
+
+---
+
+## 🌙 Dark Theme Dashboard
+
+![Flipkart Dark Dashboard](dark.png)
+
+---
+
+## Key Insights
+
+* Apple and Samsung dominate sales.
+* Top 5 models contribute a large share of total revenue.
+* Sales fluctuate across months.
+* Discount percentage changes throughout the year.
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Excel Dashboard Creation
+* Data Visualization
+* Business Insight Generation
 
 ### Insights
 
